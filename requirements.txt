@@ -10,4 +10,5 @@ ipython>=8.0,<9.0
 # Machine learning / modeling
 scikit-learn>=1.4,<2.0
 xgboost>=2.1,<3.0
-scikit-learn-lvq>=0.1.0,<1.0
+# scikit-learn-lvq tidak tersedia di index yang dipakai saat ini;
+# notebook sudah memiliki fallback/custom LVQ implementation.
