@@ -1,0 +1,13 @@
+# Core data science stack used by Assignment3_Improvement.ipynb
+# Version range ini umum dipakai dan lebih aman untuk notebook ML/EDA ini.
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<0.14
+scipy>=1.11,<2.0
+ipython>=8.0,<9.0
+
+# Machine learning / modeling
+scikit-learn>=1.4,<2.0
+xgboost>=2.1,<3.0
+scikit-learn-lvq>=0.1.0,<1.0
